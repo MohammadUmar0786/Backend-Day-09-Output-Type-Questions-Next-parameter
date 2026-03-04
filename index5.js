@@ -22,4 +22,6 @@ app.use('/user',(req,res,next)=>{
 // listen at a port no.
 app.listen(3000,()=>{
     console.log('Listening at a port no. 3000');
-})    
+});    
+
+// Explanation in Image (Can Go through from it)
